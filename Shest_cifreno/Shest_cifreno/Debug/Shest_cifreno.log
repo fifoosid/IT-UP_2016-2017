@@ -1,0 +1,9 @@
+﻿  Shest_cifreno.cpp
+c:\users\grade\documents\visual studio 2015\projects\shest_cifreno\shest_cifreno\shest_cifreno.cpp(8): warning C4101: 'FifthDigit': unreferenced local variable
+c:\users\grade\documents\visual studio 2015\projects\shest_cifreno\shest_cifreno\shest_cifreno.cpp(8): warning C4101: 'FourthDigit': unreferenced local variable
+c:\users\grade\documents\visual studio 2015\projects\shest_cifreno\shest_cifreno\shest_cifreno.cpp(8): warning C4101: 'SecondDigit': unreferenced local variable
+c:\users\grade\documents\visual studio 2015\projects\shest_cifreno\shest_cifreno\shest_cifreno.cpp(8): warning C4101: 'ThirdDigit': unreferenced local variable
+c:\users\grade\documents\visual studio 2015\projects\shest_cifreno\shest_cifreno\shest_cifreno.cpp(8): warning C4101: 'firstDigit': unreferenced local variable
+c:\users\grade\documents\visual studio 2015\projects\shest_cifreno\shest_cifreno\shest_cifreno.cpp(8): warning C4101: 'SixthDigit': unreferenced local variable
+  Shest_cifreno.vcxproj -> C:\Users\grade\Documents\Visual Studio 2015\Projects\Shest_cifreno\Debug\Shest_cifreno.exe
+  Shest_cifreno.vcxproj -> C:\Users\grade\Documents\Visual Studio 2015\Projects\Shest_cifreno\Debug\Shest_cifreno.pdb (Full PDB)
